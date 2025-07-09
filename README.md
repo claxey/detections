@@ -40,7 +40,3 @@ This project matches and maps player tracks between two different video sources 
 - `player_mapping.py`: Extracts embeddings, matches players, and saves mapping.
 - `run_all.py`: Runs the full pipeline automatically.
 - `requirements.txt`: Python dependencies.
-
-## Notes
-- Make sure your input videos and weights are named as above or update the scripts accordingly.
-- For best results, use high-quality, synchronized videos. 
